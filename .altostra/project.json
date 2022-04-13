@@ -1,0 +1,21 @@
+{
+  "id": "sequelize-typescript-1t10p5m",
+  "name": "sequelize-typescript",
+  "created": "2022-04-13T10:14:14.417Z",
+  "description": "",
+  "blueprints": [
+    {
+      "version": "2019-10-24",
+      "connections": {},
+      "resources": {},
+      "metadata": {
+        "designer": {
+          "resourcePositions": {}
+        }
+      },
+      "id": "sequelize-typescript-1c00pzz",
+      "name": "sequelize-typescript"
+    }
+  ],
+  "type": "altostra"
+}
